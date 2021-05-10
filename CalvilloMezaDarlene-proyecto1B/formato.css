@@ -1,0 +1,154 @@
+{ 
+    padding: 0;
+    margin: 0;
+}
+
+p{
+
+font-size: 15px;
+font-family: Copperplate;
+line-height: 150%;
+}
+
+
+
+#general {
+    background: #F6F4F1;
+    width: 95%;
+    margin: auto;
+    height: 1200px;
+}
+
+
+
+
+
+header {
+text-aling:center;
+font-size: 20px;
+font-family: Verdana;
+height: 7%;
+background: #8BDEF9 ;
+margin-bottom: 0.5em;
+text-aling:center;
+}
+
+
+
+
+
+#MENU{
+    letter-spacing: 5px;
+    margin-left:50px;
+}
+
+#MENU nav a{
+text-decoration: none;    
+}
+
+#MENU nav li{
+display: inline-block;   
+}
+
+#MENU nav a:hover{
+background-color: greenyellow;    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    height: 50px;
+    background-color: pink;
+    text-decoration: verdana;
+}
+
+
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    float: center;
+    line-height: 50px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-family: verdana;
+    display: block;
+    font-size: 15px;
+    padding:  10px;
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    margin-left: 50px;
+}
+
+
+
+article {
+height: 50%;
+background: #F6F4F1;
+}
+
+#contenido {
+    background: #00BCE5;
+    height: 110%;
+}
+
+section{
+width: 70%;
+height: 55%;
+float: left;
+background: #F6F4F1;    
+}
+
+aside {
+font-size: 10px;
+height: 30%;
+width: 30%;
+float: right;
+background: #D1EBE7;    
+}
+
+
+
+
+
+footer {
+height: 25%;
+background: #00BCE5;
+}
+
+
+
+#paginab {
+    background: #AFF5ED;
+    width: 95%;
+    margin: auto;
+    height: 1200px;
+}
+
+
+
+table {
+   border-collapse: separate;
+   border-spacing: 5px;
+   background: #RGB url("gradient.gif") bottom left repeat-x;
+   color: #AFF5ED;
+   font-family: verdana;
+}
+td, th {
+   background: #fff;
+   color: #000;
+}
+  
+
+
+#formulario {
+   
+    margin: auto;
+    height: 400px;
+}
